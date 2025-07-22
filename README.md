@@ -1,3 +1,3 @@
-# Hello from Direct GitHub API!
+# Hello from MCP!
 
-This file was updated using the GitHub API.
+This repository was created using GitHub API.
